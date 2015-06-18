@@ -11,7 +11,7 @@
             this.Title = title;
             this.Location = location;
         }
-
+		
         public DateTime Date { get; set; }
 
         public string Title { get; set; }

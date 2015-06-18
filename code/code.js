@@ -6,7 +6,7 @@
     if ((navigator.userAgent.indexOf('MSIE 5') > 0) || (navigator.userAgent.indexOf('MSIE 6')) > 0) {
         addScroll = true;
     }
-
+	
     var off = 0,
         pX = 0,
         pY = 0,

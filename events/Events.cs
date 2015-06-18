@@ -17,7 +17,7 @@ namespace Events
 
             Console.WriteLine(output);
         }
-
+		
         private static bool ExecuteNextCommand()
         {
             string command = Console.ReadLine();

@@ -17,7 +17,7 @@
             this.byDate.Add(newEvent);
             Messages.EventAdded();
         }
-
+		
         public void DeleteEvents(string titleToDelete)
         {
             string title = titleToDelete.ToLower();
