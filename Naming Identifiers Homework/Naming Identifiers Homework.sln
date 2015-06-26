@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{59A7BD92-B104-4248-B4F3-9BE1C5C2F01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{7889BD56-95D4-4ABA-9975-AF2C3858BDF5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mozilla button", "Mozilla button\Mozilla button.vbproj", "{76E2C58B-F35D-4046-AB0D-C4AB6ED8F3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{887D8C53-14B9-44A0-9547-5940E31EAC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A7BD92-B104-4248-B4F3-9BE1C5C2F01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A7BD92-B104-4248-B4F3-9BE1C5C2F01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A7BD92-B104-4248-B4F3-9BE1C5C2F01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A7BD92-B104-4248-B4F3-9BE1C5C2F01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7889BD56-95D4-4ABA-9975-AF2C3858BDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7889BD56-95D4-4ABA-9975-AF2C3858BDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7889BD56-95D4-4ABA-9975-AF2C3858BDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7889BD56-95D4-4ABA-9975-AF2C3858BDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E2C58B-F35D-4046-AB0D-C4AB6ED8F3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E2C58B-F35D-4046-AB0D-C4AB6ED8F3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E2C58B-F35D-4046-AB0D-C4AB6ED8F3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E2C58B-F35D-4046-AB0D-C4AB6ED8F3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887D8C53-14B9-44A0-9547-5940E31EAC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887D8C53-14B9-44A0-9547-5940E31EAC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887D8C53-14B9-44A0-9547-5940E31EAC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887D8C53-14B9-44A0-9547-5940E31EAC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
