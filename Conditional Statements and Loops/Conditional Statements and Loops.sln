@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 Class Chef", "Task 1 Class Chef\Task 1 Class Chef.csproj", "{43D105BF-7858-4353-967A-534539499649}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam CSharp 1", "Exam CSharp 1", "{1DE7D36E-9206-4968-9AE7-300B682B4153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Three numbers", "1_Three numbers\1_Three numbers.csproj", "{518CACAE-5F65-44A9-98A9-7AFBDDF1B2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Decoding", "2 Decoding\2 Decoding.csproj", "{4F5FDEEA-3312-4956-9B3C-8B4572AF2EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 ConsoleApplication1", "3 ConsoleApplication1\3 ConsoleApplication1.csproj", "{8DA795D5-23B5-4283-93ED-37FEAA17FAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Persian rugs", "4 Persian rugs\4 Persian rugs.csproj", "{2BDBAC22-4AA2-4E1C-9156-3E0E15B23BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Search in Bits", "5 Search in Bits\5 Search in Bits.csproj", "{A277F347-3864-47AD-8059-E7D7A552944D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D105BF-7858-4353-967A-534539499649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D105BF-7858-4353-967A-534539499649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D105BF-7858-4353-967A-534539499649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D105BF-7858-4353-967A-534539499649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518CACAE-5F65-44A9-98A9-7AFBDDF1B2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518CACAE-5F65-44A9-98A9-7AFBDDF1B2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518CACAE-5F65-44A9-98A9-7AFBDDF1B2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518CACAE-5F65-44A9-98A9-7AFBDDF1B2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5FDEEA-3312-4956-9B3C-8B4572AF2EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5FDEEA-3312-4956-9B3C-8B4572AF2EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5FDEEA-3312-4956-9B3C-8B4572AF2EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5FDEEA-3312-4956-9B3C-8B4572AF2EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA795D5-23B5-4283-93ED-37FEAA17FAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA795D5-23B5-4283-93ED-37FEAA17FAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA795D5-23B5-4283-93ED-37FEAA17FAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA795D5-23B5-4283-93ED-37FEAA17FAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDBAC22-4AA2-4E1C-9156-3E0E15B23BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDBAC22-4AA2-4E1C-9156-3E0E15B23BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDBAC22-4AA2-4E1C-9156-3E0E15B23BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDBAC22-4AA2-4E1C-9156-3E0E15B23BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A277F347-3864-47AD-8059-E7D7A552944D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A277F347-3864-47AD-8059-E7D7A552944D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A277F347-3864-47AD-8059-E7D7A552944D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A277F347-3864-47AD-8059-E7D7A552944D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{518CACAE-5F65-44A9-98A9-7AFBDDF1B2B7} = {1DE7D36E-9206-4968-9AE7-300B682B4153}
+		{4F5FDEEA-3312-4956-9B3C-8B4572AF2EF2} = {1DE7D36E-9206-4968-9AE7-300B682B4153}
+		{8DA795D5-23B5-4283-93ED-37FEAA17FAE2} = {1DE7D36E-9206-4968-9AE7-300B682B4153}
+		{2BDBAC22-4AA2-4E1C-9156-3E0E15B23BE3} = {1DE7D36E-9206-4968-9AE7-300B682B4153}
+		{A277F347-3864-47AD-8059-E7D7A552944D} = {1DE7D36E-9206-4968-9AE7-300B682B4153}
+	EndGlobalSection
+EndGlobal
