@@ -1,0 +1,12 @@
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\bin\Debug\SolarSystem.exe
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\bin\Debug\SolarSystem.pdb
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\MainWindow.g.cs
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\App.g.cs
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\SolarSystem_MarkupCompile.cache
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\SolarSystem_MarkupCompile.lref
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\MainWindow.baml
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\SolarSystem.g.resources
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\SolarSystem.exe
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\SolarSystem\obj\Debug\SolarSystem.pdb

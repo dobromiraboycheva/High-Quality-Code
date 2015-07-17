@@ -1,0 +1,6 @@
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\bin\Debug\02 Compare simple Maths.exe.config
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\obj\Debug\02 Compare simple Maths.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\bin\Debug\02 Compare simple Maths.exe
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\bin\Debug\02 Compare simple Maths.pdb
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\obj\Debug\02 Compare simple Maths.exe
+F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\02 Compare simple Maths\obj\Debug\02 Compare simple Maths.pdb
