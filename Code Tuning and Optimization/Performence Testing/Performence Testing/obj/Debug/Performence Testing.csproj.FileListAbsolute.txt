@@ -1,1 +1,0 @@
-F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\Performence Testing\bin\Debug\Performence Testing.exe.config

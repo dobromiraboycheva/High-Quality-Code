@@ -1,5 +1,0 @@
-F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\bin\Debug\03 Compare advanced Maths.exe.config
-F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\bin\Debug\03 Compare advanced Maths.exe
-F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\bin\Debug\03 Compare advanced Maths.pdb
-F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\obj\Debug\03 Compare advanced Maths.exe
-F:\Visual Studio 2013\TelerikAcademy\High Quality Code\Code Tuning and Optimization\Performence Testing\03 Compare advanced Maths\obj\Debug\03 Compare advanced Maths.pdb
