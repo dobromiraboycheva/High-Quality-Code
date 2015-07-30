@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotating Matrix", "Rotating Matrix\Rotating Matrix.csproj", "{ECFB3004-CE22-4919-8960-004252B3EB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotating Matrix.Tests", "Rotating Matrix.Tests\Rotating Matrix.Tests.csproj", "{92580EEB-CE8F-4D0D-8113-B69528D23E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Release|ARM.ActiveCfg = Release|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Release|x64.ActiveCfg = Release|Any CPU
+		{ECFB3004-CE22-4919-8960-004252B3EB02}.Release|x86.ActiveCfg = Release|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Release|ARM.ActiveCfg = Release|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Release|x64.ActiveCfg = Release|Any CPU
+		{92580EEB-CE8F-4D0D-8113-B69528D23E45}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
