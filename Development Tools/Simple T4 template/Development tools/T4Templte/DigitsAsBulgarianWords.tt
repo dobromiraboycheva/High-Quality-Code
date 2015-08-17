@@ -1,0 +1,38 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".txt" #>
+
+
+<#
+for (int i = 0; i < 10; i++)
+{
+	PrintDigitAsWord(i);
+}
+#>
+
+<#+
+void PrintDigitAsWord(int digit)
+{
+	string result;
+
+	switch(digit)
+	{
+		case 0: result = "Нула"; break;
+		case 1: result = "Едно"; break;
+		case 2: result = "Две"; break;
+		case 3: result = "Три"; break;
+		case 4: result = "Четири"; break;
+		case 5: result = "Пет"; break;
+		case 6: result = "Шест"; break;
+		case 7: result = "Седем"; break;
+		case 8: result = "Осем"; break;
+		case 9: result = "Девет"; break;
+		default: result = "Invalid digit."; break;
+	}
+
+	WriteLine("{0} -> {1}", digit, result);
+}
+#>
