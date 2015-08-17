@@ -2,7 +2,7 @@
 {
     using System;
 
-    class RotatingMatrix
+    protected class RotatingMatrix
     {
         internal static void Main()
         {

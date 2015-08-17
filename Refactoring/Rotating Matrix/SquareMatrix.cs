@@ -23,11 +23,12 @@
             {
                 return this.size;
             }
+
             set
             {
-                if(value<SquareMatrix.MinMatrixSize||SquareMatrix.MaxMatrixSize<value)
+                if (value < SquareMatrix.MinMatrixSize || SquareMatrix.MaxMatrixSize < value)
                 {
-                    throw new ArgumentException("Matrix size must be between "+SquareMatrix.MinMatrixSize+" and "+SquareMatrix.MaxMatrixSize);
+                    throw new ArgumentException("Matrix size must be between " + SquareMatrix.MinMatrixSize + " and " + SquareMatrix.MaxMatrixSize);
                 }
 
                 this.size = value;
@@ -50,7 +51,7 @@
             int rowChange = RotatingUtils.GetRowChange(direction);
             int colChange = RotatingUtils.GetColChange(direction);
 
-            while(cellValue<=Math.Pow(this.Size,2))
+            while (cellValue <= Math.Pow(this.Size, 2))
             {
                 this.matrix[position.Row, position.Col] = cellValue;
 
@@ -78,7 +79,7 @@
                     rowChange = RotatingUtils.GetRowChange(direction);
                     colChange = RotatingUtils.GetColChange(direction);
 
-                    if(neighboursAreFilled)
+                    if (neighboursAreFilled)
                     {
                         continue;
                     }
@@ -98,7 +99,7 @@
             {
                 for (int col = 0; col < this.matrix.GetLength(1); col++)
                 {
-                    result.AppendFormat("{0,-5}",this.matrix[row,col]);
+                    result.AppendFormat("{0,-5}", this.matrix[row, col]);
                 }
 
                 result.AppendLine();

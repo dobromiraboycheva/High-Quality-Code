@@ -14,13 +14,13 @@
         }
 
         public int Row
-        { 
+        {
             get
             {
                 return this.row;
             }
-            
-            set 
+
+            set
             {
                 if (value < 0)
                 {
@@ -28,7 +28,7 @@
                 }
 
                 this.row = value;
-            } 
+            }
         }
 
         public int Col

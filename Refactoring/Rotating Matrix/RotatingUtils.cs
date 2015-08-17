@@ -25,6 +25,7 @@
                     }
                 }
             }
+
             return true;
         }
 
@@ -44,15 +45,14 @@
             return null;
         }
 
-
         public static bool CanGoToDirection(this int[,] matrix, int row, int col)
         {
-            if(!matrix.IsInRange(row,col))
+            if (!matrix.IsInRange(row, col))
             {
                 return false;
             }
 
-            if(matrix[row,col]!=0)
+            if (matrix[row, col] != 0)
             {
                 return false;
             }
@@ -85,7 +85,6 @@
         {
             return ColChange[(int)direction];
         }
-
 
         private static bool IsInRange(this int[,] matrix, int row, int col)
         {
